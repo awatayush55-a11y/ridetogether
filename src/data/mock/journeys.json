@@ -1,0 +1,47 @@
+[
+  {
+    "id": "journey-chandigarh",
+    "driverId": "student-isha",
+    "origin": { "lat": 30.3421, "lng": 76.3869 },
+    "destination": { "lat": 30.7412, "lng": 76.7681 },
+    "departureOffsetMinutes": -5,
+    "availableSeats": 2,
+    "route": [
+      { "lat": 30.3421, "lng": 76.3869 },
+      { "lat": 30.4818, "lng": 76.5921 },
+      { "lat": 30.5867, "lng": 76.8461 },
+      { "lat": 30.6428, "lng": 76.8172 },
+      { "lat": 30.7412, "lng": 76.7681 }
+    ]
+  },
+  {
+    "id": "journey-airport",
+    "driverId": "student-kabir",
+    "origin": { "lat": 30.3407, "lng": 76.3892 },
+    "destination": { "lat": 30.6734, "lng": 76.7885 },
+    "departureOffsetMinutes": 8,
+    "availableSeats": 3,
+    "route": [
+      { "lat": 30.3407, "lng": 76.3892 },
+      { "lat": 30.4809, "lng": 76.5912 },
+      { "lat": 30.5881, "lng": 76.8442 },
+      { "lat": 30.642, "lng": 76.817 },
+      { "lat": 30.6734, "lng": 76.7885 }
+    ]
+  },
+  {
+    "id": "journey-mohali",
+    "driverId": "student-meher",
+    "origin": { "lat": 30.3435, "lng": 76.3847 },
+    "destination": { "lat": 30.7046, "lng": 76.7178 },
+    "departureOffsetMinutes": 16,
+    "availableSeats": 1,
+    "route": [
+      { "lat": 30.3435, "lng": 76.3847 },
+      { "lat": 30.4831, "lng": 76.594 },
+      { "lat": 30.5872, "lng": 76.848 },
+      { "lat": 30.6428, "lng": 76.8172 },
+      { "lat": 30.7046, "lng": 76.7178 }
+    ]
+  }
+]

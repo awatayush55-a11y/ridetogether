@@ -1,0 +1,38 @@
+[
+  {
+    "id": "student-isha",
+    "name": "Isha Mehta",
+    "college": "Punjabi University",
+    "collegeEmail": "isha.mehta@pbi.ac.in",
+    "verificationStatus": "verified",
+    "driver": true,
+    "emergencyContacts": []
+  },
+  {
+    "id": "student-kabir",
+    "name": "Kabir Singh",
+    "college": "Thapar Institute",
+    "collegeEmail": "kabir.singh@thapar.edu",
+    "verificationStatus": "verified",
+    "driver": true,
+    "emergencyContacts": []
+  },
+  {
+    "id": "student-meher",
+    "name": "Meher Kaur",
+    "college": "Punjabi University",
+    "collegeEmail": "meher.kaur@pbi.ac.in",
+    "verificationStatus": "verified",
+    "driver": true,
+    "emergencyContacts": []
+  },
+  {
+    "id": "student-simulated",
+    "name": "RideTogether Demo",
+    "college": "Sample student profile",
+    "collegeEmail": "demo@sample.invalid",
+    "verificationStatus": "verified",
+    "driver": true,
+    "emergencyContacts": []
+  }
+]
